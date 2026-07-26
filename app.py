@@ -1,9 +1,6 @@
 import streamlit as st
 import pickle
 import numpy as np
-import sklearn
-
-print(sklearn.__version__)
 
 # -----------------------------
 # Page Configuration
